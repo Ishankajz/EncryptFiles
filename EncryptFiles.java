@@ -6,7 +6,7 @@
  *      - Outputs encrypted file to same folder, replacing the copy of the 
  *         unciphered file
  *
- * Test
+ * 
  *
  */
 
